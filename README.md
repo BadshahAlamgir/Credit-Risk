@@ -52,26 +52,24 @@ This project applies **data preprocessing, EDA, feature engineering, class balan
 ## 🔍 Exploratory Data Analysis (EDA)
 
 **Target Variable Distribution (Before Balancing)**  
-![Target Variable Distribution](images/target_distribution.png)
+![Target Variable Distribution](credit_risk_images/page3_img1.png)
 
 **Feature Distributions**  
-- Age Distribution  
-![Age Distribution](images/age_distribution.png)
+- Age and Income Distribution  
+![Age Distribution](credit_risk_images/page4_img1.png)
 
-- Income Distribution  
-![Income Distribution](images/income_distribution.png)
 
 **Default Rate by Loan Intent**  
-![Loan Intent vs Default Rate](images/loan_intent_default.png)
+![Loan Intent vs Default Rate](credit_risk_images/page5_img1.png)
 
 **Correlation Heatmap**  
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](credit_risk_images/page6_img1.png)
 
 **Loan Amount vs Interest Rate**  
-![Loan Amount vs Interest Rate](images/loan_vs_rate.png)
+![Loan Amount vs Interest Rate](credit_risk_images/page7_img1.png)
 
 **Default Rate by Loan Grade**  
-![Loan Grade vs Default Rate](images/loan_grade_risk.png)
+![Loan Grade vs Default Rate](credit_risk_images/page7_img2.png)
 
 ---
 
@@ -115,7 +113,7 @@ This project applies **data preprocessing, EDA, feature engineering, class balan
 - Borrowers with **higher loan interest rates** and **lower credit grades** show significantly higher default risk.
 - Certain **loan purposes** (like small business loans) have higher average default rates.
 - **Income-to-loan ratio** is a strong predictor of repayment ability.
-
+![Feature Importance](credit_risk_images/download.png)
 ---
 
 ## 📦 Installation & Usage
