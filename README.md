@@ -1,7 +1,5 @@
 # 💳 Credit Risk Prediction & Management
 
-![Credit Risk Banner](images/banner.png) <!-- Optional: Add a banner graphic here -->
-
 A **machine learning project** to predict the probability of loan default using **credit and demographic data**.  
 This project applies **data preprocessing, EDA, feature engineering, class balancing, and model building** to create an accurate and interpretable credit risk classifier.
 
